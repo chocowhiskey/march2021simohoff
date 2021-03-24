@@ -7,6 +7,7 @@ function App() {
         <div className="App-logo" alt="logo" />
 
         <p className="centeredTitle">Simone Hoffmann</p>
+        <p className="centeredSubtitle">Developer</p>
       </div>
     </div>
   );
