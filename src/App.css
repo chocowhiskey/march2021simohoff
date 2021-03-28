@@ -57,6 +57,7 @@ html {
   letter-spacing: 0.3em;
   width: 80%;
   font-family: "Open Sans Condensed", sans-serif;
+  text-shadow: 1px 1px 4px #e8d4d4;
 }
 
 .centeredTitle {
