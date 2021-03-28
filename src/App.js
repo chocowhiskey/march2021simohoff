@@ -6,8 +6,10 @@ function App() {
       <div className="App-div">
         <div className="App-logo" alt="logo" />
 
-        <p className="centeredTitle">Simone Hoffmann</p>
-        <p className="centeredSubtitle">Developer</p>
+        <div className="centeredTitleDiv">
+          <p className="centeredTitle">Simone Hoffmann</p>
+          <p className="centeredSubtitle">Developer</p>
+        </div>
       </div>
     </div>
   );
