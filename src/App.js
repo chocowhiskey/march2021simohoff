@@ -9,6 +9,9 @@ function App() {
           <p className="centeredTitle">Simone Hoffmann</p>
           <p className="centeredSubtitle">Developer</p>
         </div>
+        <div className="menu">
+          <p>Github</p>
+        </div>
       </div>
     </div>
   );
